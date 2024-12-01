@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Rudra",
+    "rollNo": 12345
+  },
+  {
+    "id": 2,
+    "name": "Husain",
+    "rollNo": 54321
+  },
+  {
+    "id": 3,
+    "name": "Amit",
+    "rollNo": 98765
+  }
+]
